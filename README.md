@@ -26,7 +26,7 @@ I tried to make this plugin do a lot of things that would help The Creation proc
 
 It's not perfect but it's pretty good.
 
-Please note that this plugin will only work with blender 3.0.0 
+Please note that this plugin will only work with blender 3.0.0 https://download.blender.org/release/Blender3.0/
 No other version of blender 3 or higher or lower will work with this. 
 It was made specifically for this version of blender. 
 
