@@ -1,9 +1,7 @@
 # The-Sublimely-Magnificent-Mighty-Ginkgo-SL2VRM-Toolkit
 Tools to Convert SL to VRM using blender
 https://ko-fi.com/themightyginkgo Donate if this made you happy!.
-Hello 
-
-How to payHi everyone and welcome to my mighty ginkgo sublimely magnificent tool kit for blender. 
+Hi everyone and welcome to my mighty ginkgo sublimely magnificent tool kit for blender. 
 
 This is my first blender plugin so please be kind and expect some bugs. 
 
