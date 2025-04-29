@@ -37,5 +37,9 @@ The vrm exporter that I use only works for that version of blender. And so the p
 No I can't make it for any other blender my apologies. 
 
 While all of the buttons are pretty self explanatory 
+
+
 A tutorial for how to use the plugin will be posted shortly please have patience.. 
+
+https://youtu.be/6MiFHBibSvU
 
