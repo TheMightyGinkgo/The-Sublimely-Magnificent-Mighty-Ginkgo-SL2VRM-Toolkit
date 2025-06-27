@@ -43,3 +43,11 @@ A tutorial for how to use the plugin will be posted shortly please have patience
 
 https://youtu.be/6MiFHBibSvU
 
+UPDATE6-27-25: 2-SL_to_VRM_Converter_Toolkit_62725 updatey.py
+Update to the Slto VRM converter that fixes finger bone names.
+However there has been a report that you will get the error 
+ Couldn't assign the "J_Bip_R_Ring1" bone to a VRM "Right Ring Proximal". Please confirm "VRM" Panel → "VRM 0.x Humanoid" → Right Ring Proximal.
+if you get this error, In edit mode select the bone go to the bone tab,  then relations,
+J_Bip_R_Ring1 has the parent of J_Bip_R_Hand
+J_Bip_R_Ring2 has the parent of J_Bip_R_Ring1
+J_Bip_R_Ring3 has the parent of J_Bip_R_Ring2
